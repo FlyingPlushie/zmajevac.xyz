@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish"
-baseURL = "https://zmajevac.xyz/"
+baseURL = "/"
 defaultContentLanguage = "en"
 publishDir = "docs"
 
