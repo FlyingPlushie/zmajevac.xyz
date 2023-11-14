@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://zmajevac.xyz/</loc>
+    <loc>/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zmajevac.xyz/about/</loc>
+    <loc>/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zmajevac.xyz/posts/</loc>
+    <loc>/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

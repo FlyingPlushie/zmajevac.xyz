@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://zmajevac.xyz/sitemap.xml
+Sitemap: /sitemap.xml
